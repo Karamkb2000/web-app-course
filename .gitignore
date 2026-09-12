@@ -1,0 +1,8 @@
+# Ignore environment variables file & secrest
+.env
+
+# Ignore log files
+.log
+
+# Dependency directories
+node_modules
